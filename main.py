@@ -59,7 +59,6 @@ def pedidos():
     </form>
     <a href="/">Volver al inicio</a>
     '''
-Agregado de formularios interactivos en catálogo y pedidos
 
 
 
