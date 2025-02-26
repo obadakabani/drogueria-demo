@@ -13,5 +13,5 @@ def catalogo():
 @app.route('/pedidos')
 def pedidos():
     return '<h2>Realiza tu pedido aquí.</h2>'
-Actualización del demo con funciones básicas
+
 
